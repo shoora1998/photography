@@ -6,7 +6,7 @@
 
 .main_box{
     background: url(photo.jpg) ;
-    height: 100vh;
+    height: 34.4rem ;
     background-size: cover;
 }
 
@@ -37,7 +37,7 @@
     width: 100% ;
     line-height: 60px;
     box-shadow: 0 2px 4px rgba(255,255,255,0.5);
-    height:60px;
+    height:48px;
 }
 
  .sidebar_menu .logo a{
@@ -64,12 +64,12 @@
  .sidebar_menu .menu{
     position: absolute;
     width: 100%;
-    top: 80px;
+    top: 60px;
  }
 
  .sidebar_menu .menu li{
     margin-top: 6px;
-    padding: 14px 20px
+    padding: 8px 20px;
  }
 
  .sidebar_menu .menu i,a{
@@ -87,7 +87,7 @@
     opacity: 0.5;
     position: absolute;
     left: 25%;
-    bottom: 30px;
+    bottom: 110px;
  }
 
  .sidebar_menu .social_media i{
